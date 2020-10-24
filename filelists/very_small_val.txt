@@ -1,0 +1,13 @@
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18936466.wav|Это я в этот последний месяц выучился болтать.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18948114.wav|Это сейчас уже близко, можно считать, центр города, а раньше за городом.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18853992.wav|Далее, я хотел бы приветствовать присутствующего здесь нашего коллегу из Гаити.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20002505.wav|Сейчас уже можно подвести первые итоги работы и Таможенного союза.|835
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18891465.wav|На основе этой программы можно будет создать научное подразделение.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20369348.wav|Не существует непреодолимых препятствий.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21425889.wav|Нередко молодежь выступает движущей силой истории.|398
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18965550.wav|Садитесь, я подвезу вас на машине.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19574926.wav|Такой подход разделяется внешними партнерами, политическими партиями, гражданским общество, профсоюзами и другими заинтересованными сторонами.|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19772538.wav|Мы преследуем важную цель — регулирование законной торговли и предупреждение незаконного оборота обычных вооружений.|198
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21326632.wav|Конечно же, они и плачут не осушая глаз, и не спят по ночам.|413
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18927432.wav|– Готово? – спросил Тимур.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18919563.wav|– Ступай, – повторил Тимур.|80

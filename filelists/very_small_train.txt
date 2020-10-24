@@ -1,0 +1,121 @@
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18912584.wav|Он должен, на наш взгляд, урегулировать существующие запасы.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20389653.wav|Слово имеет представитель Кубы.|70
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20827465.wav|Я приглашаю все делегации ознакомиться с этой программой.|381
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20792931.wav|В этой связи позвольте мне выделить два основополагающих момента.|27
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18965709.wav|И мы это понимаем, но давайте не будем ставить телегу впереди лошади.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21554300.wav|У нас уникальный форум с точки зрения членства, мандата и правил процедуры.|417
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20957575.wav|Они одинаково важны и подкрепляют друг друга.|386
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21954240.wav|Это ответственная передача полномочий.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18914986.wav|Теперь я предоставляю слово представителю Российской Федерации.|105
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19019701.wav|Однако это не должно сдерживать наш энтузиазм.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21842378.wav|Такое сосуществование и ассимиляция многообразия способствуют обогащению нашей смешанной культуры и жизнеспособности нашей цивилизации.|413
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20546623.wav|Туман, застилавший всё в ее душе, вдруг рассеялся.|58
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20832245.wav|На этом заседание закрывается.|381
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18886961.wav|Моя делегация солидаризируется с заявлением, сделанным от имени Европейского союза.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20369356.wav|И я просто укажу их вам.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18911733.wav|Адекватное управление ресурсами — залог обеспечения благосостояния нынешнего и будущих поколений.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19574150.wav|Недавние восстания показали, что существуют новые, важные механизмы достижения желаемых изменений.|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21911017.wav|Это будет способствовать укреплению иракского национального потенциала по сохранению успехов, достигнутых в новом Ираке.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18934654.wav|Мы приступаем к голосованию по этому проекту резолюции.|105
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18885644.wav|Игровая консоль задумана в двух вариантах — для собак и для кошек.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18882210.wav|Вслед за ними по шершавому стволу соскользнул мальчик.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18947368.wav|Нельзя переоценить необходимость учета гендерной проблематики в инициативах по поддержанию мира и миростроительству.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18881285.wav|Культура возникает при встрече автора и потребителя, производителя и потребителя.|92
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18919972.wav|– Меня Тимур послал для связи, – затараторил Симаков.|80
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18932845.wav|Более того, его право на самоопределение неотъемлемо, неотторжимо и непреложно.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18854071.wav|Восемьдесят восемь миллиардов пятьсот двадцать шесть миллионов триста пятьдесят тысяч четыреста сорок восемь.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18929656.wav|Это непростая задача, и ее выполнение ложится на самих афганцев.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18878936.wav|Мы призываем другие страны, разделяющие нашу обеспокоенность, поступить таким же образом.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19348341.wav|Веды — это руководство для всестороннего развития человека, живущего в полной гармонии с окружающей средой.|195
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20171839.wav|Право быть избранными имеют все кандидаты, чьи имена внесены в бюллетень для голосования.|279
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19537269.wav|Я встречалась с другими жертвами расовой дискриминации.|198
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18911286.wav|Между, скажем, массой бозона Хиггса и гравитационной постоянной.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20362058.wav|Ведь этот орган объединяет государства, которым надлежало бы сделать необходимые уступки в этой сфере.|56
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18940863.wav|Такие широкие взгляды свидетельствуют о богатстве того, что мы уже имеем.|105
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18904905.wav|Благодарю представителя Японии за его заявление.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19112333.wav|Неофициальные заседания будут проходить под председательством и координацией уважаемого посла Шри-Ланки.|163
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18918306.wav|Надеюсь, что делегации сочтут его полезным.|80
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21649827.wav|В списке выступающих сейчас есть еще один оратор — Генеральный секретарь Конференции господин Орджоникидзе.|418
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21932362.wav|Безопасность является насущной потребностью и правом всех людей, равно как предпосылкой развития всех стран.|386
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18930925.wav|Есть тут где-то спасательный круг?|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18918692.wav|Буэнос-Айрес - столица Аргентины.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21568785.wav|Большое Вам спасибо, господин Председатель.|418
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18929071.wav|Слово имеет представитель Италии.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19013820.wav|Мы, африканцы, не советовали бы вам надеть в порядке самозащиты балахон на голову льва.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21383291.wav|Дашь мне бумаги, буду ждать здесь вместо тебя.|398
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18919207.wav|Определенные делегации здесь считают, что одной из проблем затора на Конференции являются процедурные факторы.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18858323.wav|На коленях у нее лежал рыжий котенок и теребил лапами букет васильков.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21552506.wav|Ряд выступающих также выразили озабоченность в связи с тенденцией к разжиганию ненависти.|417
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18879095.wav|И на всякий случай я бы посоветовал вам в расчете на это запастись терпением.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18858273.wav|Я полностью согласен с замечаниями представителя Соединенных Штатов на этот счет.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19575970.wav|Подавляющее большинство проектов уже находится под управлением афганских сотрудников.|198
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20002506.wav|Я рассчитываю на то, что мы завершим нашу работу сегодня.|835
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18991076.wav|Ничего, он сегодня добрый.|114
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18948124.wav|Но скоро он впал как бы в глубокую задумчивость.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20160541.wav|За прошедший год значительно продвинулось судебное разбирательство по ситуации в Кении.|279
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18932109.wav|Он страшно не хотел туда уходить.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18955838.wav|Европейский союз приветствует перевод сотрудников Организации Объединенных Наций в Могадишо.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21901092.wav|Сразу же после окончания навязанной нам войны Исламская Республика Иран приступила к разминированию.|413
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18965541.wav|За минувшие годы Конференция и ее предшественники добились впечатляющих достижений.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18896965.wav|Слово имеет представитель Эстонии.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18927013.wav|Пыльной ладонью Женя вытерла лоб, и вдруг на стене задребезжал звонок телефона.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20365156.wav|Доклад Комиссии международного права о работе ее шестьдесят второй сессии.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18897227.wav|Пока же наша делегация не станет возражать против их принятия на этом заседании.|98
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18995279.wav|Предлагаю вам обратиться к Конференции.|69
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18922969.wav|Но вот Ольга накинула ремень на плечо.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19575370.wav|Недостаточно лишь обеспечивать, чтобы каждый отдельный орган выполнял свои функции в соответствии с Уставом.|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19360219.wav|Эти важные достижения — и наша благодарность — не должны остаться незамеченными.|187
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18912182.wav|Доклад отражает необходимый компромисс.|105
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21953510.wav|Первое из них эпизодическое.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18882099.wav|После поражения «Талибана» Афганистан добился замечательных достижений, например расширил доступ девочек к начальному образованию.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19544880.wav|Позвольте мне высказать несколько дополнительных соображений в моем национальном качестве.|198
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21554307.wav|Никто не может быть избавлен от последствий наносимого ей ущерба.|417
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18913227.wav|Она разрушает общее понимание норм приличий и уважение прав человека.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20832217.wav|Для меня является честью эта возможность выступить перед Ассамблеей.|381
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20475272.wav|Последствия иракской оккупации Кувейта и агрессии против него.|24
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21662707.wav|В рамках сотрудничества и координации усилий различных органов должное внимание необходимо уделять широкой представленности.|381
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18920674.wav|На какую грязь способно, однако, мое сердце!|80
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18976895.wav|Из проблем определения и сферы применения в значительной мере вытекает вопрос о проверке.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19494633.wav|Такие поправки являются шагом вперед в борьбе с безнаказанностью за нарушения международного гуманитарного права.|168
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18927772.wav|Желает ли взять слово кто-либо еще из делегаций?|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19282210.wav|Наша дружба с Израилем имеет глубокие и прочные корни.|62
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21882159.wav|Нации должны уважать себе подобных.|413
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18918215.wav|Уникальные экспонаты рассказывают, как чекисты подсматривали, подслушивали и убивали.|80
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18882203.wav|Марина всячески пытается предотвратить надвигающуюся катастрофу.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18924633.wav|А что, предела нет?|80
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20548880.wav|Гондурас всегда был в целом мирной страной, которая соблюдает нормы международного права.|37
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21590100.wav|Это говорят и будут повторять все.|418
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19070866.wav|Конференция по разоружению утратила убедительность в качестве единого многостороннего форума по разоружению и нераспространению.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20190069.wav|Мы подчеркивали насущную необходимость предоставления международной помощи в целях решения этой проблемы.|79
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19574920.wav|Человек, уничтоживший британскую шпионскую сеть до завтрака?|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19245696.wav|Это дает нам основания перейти к шестому аспекту перехода, а именно: стратегическому партнерству.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19792305.wav|В этой связи мы приветствуем недавнее присоединение Малави к этой Конвенции.|247
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18849220.wav|Венесуэла вновь подтверждает, что предвзятые подходы приводят к предвзятым мерам реагирования.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20389872.wav|Это также относится к мирному урегулированию вооруженных конфликтов, особенно в Африке.|47
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21419260.wav|От имени Генеральной Ассамблеи я хочу поблагодарить президента Федеративной Республики Бразилия за ее заявление.|398
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18873755.wav|Ну вот, я его вам сам вынул.|81
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18911793.wav|Это предложение было тут же отклонено.|93
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21391502.wav|Наша страна глубоко убеждена в актуальности широкого и многостороннего подхода к миростроительству.|398
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20877200.wav|Генеральная Ассамблея соберется вновь, как только Комитет завершит работу.|356
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20361852.wav|Многие делегации подчеркивали важность поощрения здоровых моделей поведения и повышения информированности общества.|56
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20236276.wav|Сегодня мы отмечаем Международный день памяти жертв рабства и трансатлантической работорговли.|11
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21383601.wav|Многое говорилось об углублении взаимоотношений Генеральной Ассамблеи с другими главными органами Организации Объединенных Наций.|398
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18912947.wav|Эти оставшиеся меры необходимо отменить.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19574612.wav|Это реалистичный документ, и в нем вполне обоснованно учитываются озабоченности всех государств-членов Агентства.|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18915728.wav|Мы это исправим позже.|104
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19826721.wav|Теперь мы можем надеяться на то, что перемены возможны.|248
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20546586.wav|Куба придерживается иной точки зрения.|58
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18903415.wav|Ты всё время занят.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19575353.wav|Наконец, мы вновь подтверждаем постоянное участие и приверженность Республики Мозамбик миру, безопасности и стабильности.|230
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18981825.wav|Одно из существенных различий касалось гендерного акцента.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21649887.wav|Разумеется, эти варианты не носят ни окончательный, ни исчерпывающий характер.|418
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19100567.wav|Пришло время выполнить наши совместные обязательства.|163
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18928136.wav|Права и техпаспорт, пожалуйста.|103
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19330477.wav|Я не буду больше комментировать эти утверждения, которые, повторюсь, абсолютно лживы и совершенно неприемлемы.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20838789.wav|Мы также отражаем это обязательство в нашем национальном законодательстве.|381
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19156592.wav|На протяжении долгих лет резолюция принималась на основе консенсуса.|168
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_19288520.wav|Миру необходимо, чтобы единая и стабильная Ливия вновь заняла свое место в мировой структуре.|94
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20984726.wav|Мы знаем, что нарушения происходят во всех странах без исключения.|63
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_20369313.wav|Мы знаем по опыту нашей работы значение партнерских отношений с международными финансовыми институтами.|319
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_18931430.wav|Молодые люди — и особенно женщины — снова в числе первых.|106
+D:/Projects/VOICE/mellotron/small_dataset/common_voice_ru_21781697.wav|Мы также стремимся содействовать укреплению здоровья людей путем принятия более практических мер.|55

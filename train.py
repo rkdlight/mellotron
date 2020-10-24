@@ -100,8 +100,13 @@ def load_checkpoint(checkpoint_path, model, optimizer):
 
 
 def save_checkpoint(model, optimizer, learning_rate, iteration, filepath):
-    print("Saving model and optimizer state at iteration {} to {}".format(
-        iteration, filepath))
+    log_string = "Saving model and optimizer state at iteration {} to {}".format(
+        iteration, filepath)
+    with open('CUSTOM_LOG.txt', 'a') as f_log:
+        f_log.write(log_string + "\n")
+    print(log_string)
+
+    print(log_string)
     torch.save({'iteration': iteration,
                 'state_dict': model.state_dict(),
                 'optimizer': optimizer.state_dict(),
@@ -132,7 +137,10 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus,
 
     model.train()
     if rank == 0:
-        print("Validation loss {}: {:9f}  ".format(iteration, reduced_val_loss))
+        log_string = "Validation loss {}: {:9f}  ".format(iteration, reduced_val_loss)
+        with open('CUSTOM_LOG.txt', 'a') as f_log:
+            f_log.write(log_string + "\n")
+        print(log_string)
         logger.log_validation(val_loss, model, y, y_pred, iteration)
 
 
@@ -194,7 +202,10 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
     is_overflow = False
     # ================ MAIN TRAINNIG LOOP! ===================
     for epoch in range(epoch_offset, hparams.epochs):
-        print("Epoch: {}".format(epoch))
+        log_string = "Epoch: {}".format(epoch)
+        with open('CUSTOM_LOG.txt', 'a') as f_log:
+            f_log.write(log_string + "\n")
+        print(log_string)
         if train_sampler is not None:
             train_sampler.set_epoch(epoch)
         for i, batch in enumerate(train_loader):
@@ -233,8 +244,11 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
 
             if not is_overflow and rank == 0:
                 duration = time.perf_counter() - start
-                print("Train loss {} {:.6f} Grad Norm {:.6f} {:.2f}s/it".format(
-                    iteration, reduced_loss, grad_norm, duration))
+                log_string = "Train loss {} {:.6f} Grad Norm {:.6f} {:.2f}s/it".format(
+                    iteration, reduced_loss, grad_norm, duration)
+                with open('CUSTOM_LOG.txt', 'a') as f_log:
+                    f_log.write(log_string + "\n")
+                print(log_string)
                 logger.log_training(
                     reduced_loss, grad_norm, learning_rate, duration, iteration)
 

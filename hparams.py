@@ -9,8 +9,8 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Experiment Parameters        #
         ################################
-        epochs=50000,
-        iters_per_checkpoint=500,
+        epochs=500,
+        iters_per_checkpoint=20,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -24,8 +24,8 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Data Parameters             #
         ################################
-        training_files='filelists/ljs_audiopaths_text_sid_train_filelist.txt',
-        validation_files='filelists/ljs_audiopaths_text_sid_val_filelist.txt',
+        training_files='filelists/small_train.txt',
+        validation_files='filelists/small_val.txt',
         text_cleaners=['english_cleaners'],
         p_arpabet=1.0,
         cmudict_path="data/cmu_dictionary",
@@ -110,7 +110,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate_anneal=50000,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=32,
+        batch_size=12,
         mask_padding=True,  # set model's padded outputs to padded values
 
     )
